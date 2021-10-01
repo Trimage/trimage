@@ -38,7 +38,7 @@ Kangwon University, Gangwon-do, South Korea —  &nbsp; <em>Bachelor of Computer
 <h2 align="center">🙆‍♀️ Experience 🙆‍♀️</h2>
 <h3 align="center"> 👨🏻‍💻Work </h3>
 <p align="center">
-- ERP Program in PYTHON, MY-SQL, 2019 ~
+- ERP Program in PYTHON, JAVA, MY-SQL, 2019 ~
 </p>
 <br>
 
