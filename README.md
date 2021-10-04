@@ -63,11 +63,10 @@ Kangwon University, Gangwon-do, South Korea —  &nbsp; <em>Bachelor of Computer
 |Certificate|Date|Organization|Note|
 |:---:|:---:|:---:|:---:|
 |Engineer Information Processing<br>(정보처리기사)|NOV 2019|한국산업인력공단|-------------------------------------|
-|Engineer Information Processing<br>(리눅스마스터2급)|AUG 2011|한국산업인력공단|-------------------------------------|
-|Engineer Information Processing<br>(정보처리기능사)|AUG 2010|한국산업인력공단|-------------------------------------|
+|Linux Master Level-2<br>(리눅스마스터2급)|SEPT 2011|한국산업인력공단|-------------------------------------|
+|Craftsman Information Processing<br>(정보처리기능사)|JUL 2011|한국산업인력공단|-------------------------------------|
 |Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|JUL 2019|대한상공회의소|-------------------------------------|
-|Computer Specialist in Spreadsheet & Database Level-1<br>(전산회계운용사 2급)|JUL 2019|대한상공회의소|-------------------------------------|
-|Engineer Information Processing<br>(정보보안기사)|APR 2021|한국산업인력공단|필기 합격|
+|Computerized Accounting Specialist Level-2<br>(전산회계운용사 2급)|JUL 2019|대한상공회의소|-------------------------------------|
 
 <br>
 
