@@ -59,7 +59,8 @@ Kangwon University, Gangwon-do, South Korea —  &nbsp; <em>Bachelor of Computer
 
 <br>    
 <h3 align="center"> 📖 Certificate 📖</h3>
-
+<p align="center">
+  
 |Certificate|Date|Organization|Note|
 |:---:|:---:|:---:|:---:|
 |Engineer Information Processing<br>(정보처리기사)|NOV 2019|한국산업인력공단|---------------------------------|
@@ -67,6 +68,7 @@ Kangwon University, Gangwon-do, South Korea —  &nbsp; <em>Bachelor of Computer
 |Craftsman Information Processing<br>(정보처리기능사)|JUL 2011|한국산업인력공단|---------------------------------|
 |Computer Specialist in Spreadsheet<br>& Database Level-1<br>(컴퓨터활용능력 1급)|JUL 2019|대한상공회의소|---------------------------------|
 |Computerized Accounting Specialist Level-2<br>(전산회계운용사 2급)|JUL 2019|대한상공회의소|---------------------------------|
+</p>
 
 <br>
 
